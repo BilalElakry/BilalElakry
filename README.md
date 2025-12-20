@@ -57,19 +57,11 @@ I am a passionate Computer Science student with a strong foundation in **Softwar
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thelazygenius404&show_icons=true&theme=tokyonight&hide_border=true&random=1" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelazygenius404&layout=compact&theme=tokyonight&hide_border=true&random=1" height="180" alt="languages" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=thelazygenius404&theme=tokyonight&hide_border=true&random=1" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thelazygenius404&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelazygenius404&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
 </div>
 
 <br>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thelazygenius404&theme=radical&no-frame=true&no-bg=true&margin-w=4&random=1" />
-</div>
 
 ---
 
