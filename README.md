@@ -57,17 +57,24 @@ I am a passionate Computer Science student with a strong foundation in **Softwar
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thelazygenius404&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelazygenius404&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
+  <a href="https://github.com/thelazygenius404">
+    <img src="https://github-readme-stats.vercel.app/api?username=thelazygenius404&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
+  </a>
+  <a href="https://github.com/thelazygenius404">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelazygenius404&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
+  </a>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thelazygenius404&theme=tokyonight&hide_border=true" alt="streak" />
+  <a href="https://github.com/thelazygenius404">
+    <img src="https://streak-stats.demolab.com?user=thelazygenius404&theme=tokyonight&hide_border=true" alt="streak" />
+  </a>
 </div>
 
 <br>
 
 ## 🏆 Achievements
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thelazygenius404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thelazygenius404&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
