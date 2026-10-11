@@ -4,8 +4,8 @@
 
 ### Engineering student building secure, scalable and user-focused software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bilal%20El%20Akry-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ElAkryBilal/)
-[![GitHub](https://img.shields.io/badge/GitHub-thelazygenius404-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BilalElakry)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bilal%20Elakry-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ElAkryBilal/)
+[![GitHub](https://img.shields.io/badge/GitHub-BilalElakry-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BilalElakry)
 ![Location](https://img.shields.io/badge/Rabat-Morocco-006233?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=BilalElakry&style=flat-square&label=Profile+Views)
 
